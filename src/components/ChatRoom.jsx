@@ -12,8 +12,8 @@ function ChatRoom() {
     const[isTyping,setIsTyping] = useState({});
 
     const users = {
-        Jhon:'https://i.pravatar.cc/150?img=32',
-        Maria:'https://i.pravatar.cc/150?img=56'
+        Maria:'https://i.pravatar.cc/150?img=32',
+       Jhon:'https://i.pravatar.cc/150?img=56'
     };
 
     const sendMessage =(sender,senderAvatar,message)=>{
