@@ -5,7 +5,7 @@ function ChatRoom() {
     const[messages,setMessages] = useState([{
         id:1,
         sender:'Jhon',
-        senderAvatar:'https://i.pravatar.cc/150?img=32',
+        senderAvatar:'https://i.pravatar.cc/150?img=56',
         message:"hello"
     }]);
 
